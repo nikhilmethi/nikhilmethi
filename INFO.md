@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nikhilmethi
+- 👀 I’m interested in AI applications in many different fields
+- 🌱 I’m currently learning R, Python, and JavaScript
+- 💞️ I’m looking to collaborate on simpler projects as I ease into coding
+- 📫 Contact: nikhilmethi06@gmail.com
