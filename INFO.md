@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nikhilmethi
-- 👀 I’m interested in AI applications in many different fields
-- 🌱 I’m currently learning R, Python, and JavaScript
-- 💞️ I’m looking to collaborate on simpler projects as I ease into coding
+- 👀 I’m interested in emerging tech in digital health, space exploration, and xr/vr/ai primarily, but stil discovering more interests by the day.
+- 🌱 I’m currently growing my skills with Java, Python, and C.
 - 📫 Contact: nikhilmethi06@gmail.com
