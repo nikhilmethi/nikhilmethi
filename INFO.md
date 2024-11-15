@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @nikhilmethi
-- 👀 I’m interested in emerging tech in digital health, space exploration, and xr/vr/ai primarily, but discovering more interests by the day!
-- 🌱 I’m currently growing my skills with Java, Python, and C.
-- 📫 Contact: nikhilmethi06@gmail.com
