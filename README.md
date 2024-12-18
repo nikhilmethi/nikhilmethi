@@ -4,7 +4,5 @@ Hi, I’m Nikhil! About me:
 - I'm currently familiar with Java, Python, and C, and I'm looking for more opportunities to use and grow these skills.
 - Contact me at nikhilmethi06@gmail.com!
 
-Check out some of my projects below:
-
+Current projects:
 - Visibly: a nonprofit for queer undergraduates in tech and engineering.
-- Decidedly Undecided: [my blog](nikhilmethi.beehiiv.com) on mental health and tech innovation.
